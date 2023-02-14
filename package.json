@@ -1,0 +1,22 @@
+{
+  "name": "dca-class01",
+  "version": "1.0.0",
+  "description": "Servers n stuff",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VideoCheese3773/DcA-Class01.git"
+  },
+  "author": "Eddie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VideoCheese3773/DcA-Class01/issues"
+  },
+  "homepage": "https://github.com/VideoCheese3773/DcA-Class01#readme",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
